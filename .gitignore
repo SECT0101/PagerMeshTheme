@@ -1,0 +1,4 @@
+tools/*/fonts/
+tools/mesh5/meshpine.png
+tools/mesh5/wordmark.png
+__pycache__/
